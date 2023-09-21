@@ -1,7 +1,7 @@
 {
     "name":"#Vanlife IMG27",
     "short_name":"#Vanlife IMG27",
-    "description": "The Quizzical Trivial App",
+    "description": "The Vanlife website is a react app that uses react routes.",
     "icons": [
       {
         "src": "/android-chrome-192x192.png",
