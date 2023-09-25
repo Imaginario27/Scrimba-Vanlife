@@ -1,7 +1,41 @@
 # VANLIFE
 
-Project url: https://scrimba-vanlife-img27.netlify.app/
+Vanlife is a sample React web application that demonstrates the use of React Router and protected routes. This project serves as a starting point for building web applications with authentication and routing capabilities. In this app, we have implemented a basic structure with several key pages and features:
 
-VANLIFE is a project from the Scrimba Frontend Developer Path.
+- Home Page
+- Host Page (Protected Route) + Some protected subpages
+- About Page
+- Van List Page
+- Van Detail Page
 
-The goal of this app was to apply the "React Router" knowledge and to implement protected routes.
+Additionally, Vanlife includes a fake login mechanism to test the protected host route.
+
+## Features
+### 1. Home Page
+The Home Page provides an introduction to the Vanlife app and its purpose.
+
+### 2. Host Page (Protected Route)
+- The Host Page is a protected route that requires authentication. Users must log in to access this page. You can use the fake login mechanism provided in the app to test this feature.
+- Inside the host page there are some subpages such as dashboard, incomes, hosts vans and reviews.
+
+### 3. About Page
+The About Page offers information about the app's creators and its mission.
+
+### 4. Van List Page
+The Van List Page displays a list of available vans. Users can click on a van to view more details.
+
+### 5. Van Detail Page
+The Van Detail Page provides in-depth information about a selected van.
+
+## Demo
+Experience the Colour Scheme Generator in action by visiting the [app page](https://scrimba-colour-scheme-generator-img27.netlify.app/).
+
+## Screenshots
+![Screenshot](https://imaginario27.com/wp-content/uploads/2023/09/generador-esquemas-color-app.png)
+
+## Acknowledgments
+This project was inspired by the need for a simple colour scheme generator.
+Special thanks to Scrimba for their educational resources.
+
+## Contact
+If you have any questions or suggestions, feel free to contact me at designer@imaginario27.com.
