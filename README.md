@@ -31,10 +31,13 @@ The Van Detail Page provides in-depth information about a selected van.
 Visit the [app page](https://scrimba-vanlife-img27.netlify.app/) to see how it works.
 
 ## Screenshots
-![Screenshot](https://imaginario27.com/wp-content/uploads/2023/09/generador-esquemas-color-app.png)
+![Vanlife - home](https://imaginario27.com/wp-content/uploads/2023/09/vanlife-home.jpg)
+![Vanlife - about](https://imaginario27.com/wp-content/uploads/2023/09/vanlife-about.jpg)
+![Vanlife - vans](https://imaginario27.com/wp-content/uploads/2023/09/vanlife-vans.jpg)
+![Vanlife - host dashboard](https://imaginario27.com/wp-content/uploads/2023/09/vanlife-host-dashboard.jpg)
 
 ## Acknowledgments
-This project was inspired by the need for a simple colour scheme generator.
+This project was inspired by the Scrimba Vanlife web app.
 Special thanks to Scrimba for their educational resources.
 
 ## Contact
