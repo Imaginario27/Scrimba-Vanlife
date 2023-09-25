@@ -28,7 +28,7 @@ The Van List Page displays a list of available vans. Users can click on a van to
 The Van Detail Page provides in-depth information about a selected van.
 
 ## Demo
-Experience the Colour Scheme Generator in action by visiting the [app page](https://scrimba-colour-scheme-generator-img27.netlify.app/).
+Visit the [app page](https://scrimba-vanlife-img27.netlify.app/) to see how it works.
 
 ## Screenshots
 ![Screenshot](https://imaginario27.com/wp-content/uploads/2023/09/generador-esquemas-color-app.png)
